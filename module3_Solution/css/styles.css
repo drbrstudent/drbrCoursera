@@ -1,3 +1,44 @@
-h1 {
-	
+div > h2 {
+	text-align: center;
+	margin: 15px;
+}
+
+h3 {
+	text-align: center;
+}
+
+body {
+	background-color: #e6f9ff;
+}
+
+#header-nav {
+	background-color: #b3ecff;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(0, 0, 0, 0.5);
+  border-color: rgba(0, 0, 0, 0.3);
+}
+.navbar-brand {
+	font-size: 2rem;
+	font-family: sans-serif;
+}
+
+.box {
+	border: 1px solid;
+	padding: 10px;
+	background-color: #e6e6e6;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+.row > div {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+
 }
