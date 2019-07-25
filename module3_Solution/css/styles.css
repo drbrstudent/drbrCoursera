@@ -21,6 +21,17 @@ body {
   color: rgba(0, 0, 0, 0.5);
   border-color: rgba(0, 0, 0, 0.3);
 }
+
+#navbarNav {
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.nav-link {
+	border: 1px solid;
+}
+
 .navbar-brand {
 	font-size: 2rem;
 	font-family: sans-serif;
