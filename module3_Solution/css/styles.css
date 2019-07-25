@@ -11,6 +11,19 @@ body {
 	background-color: #e6f9ff;
 }
 
+@media (min-width: 576px) {
+  	a.top {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 577px) {
+	a.top {
+		visibility: visible;
+	}
+}
+
+
 #header-nav {
 	background-color: #b3ecff;
 	border-radius: 0;
